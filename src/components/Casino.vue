@@ -101,7 +101,7 @@ methods:{
           this.listaPokes[0] == this.listaPokes[2] ||
           this.listaPokes[1] == this.listaPokes[2]
         ) {
-          this.puntaje += 4;
+          this.puntaje += 2;
         }
         if (this.intento == 5) {
           if (this.puntaje < 10) {
