@@ -1,0 +1,38 @@
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+.titulos {
+    display: flex;
+    justify-content: center;
+   
+  }
+  .titulos h4{
+    margin: 10px 50px;
+}
+.casino{
+    display: flex;
+}
+.items{
+    margin: 0 10px;
+}
+
+button{
+    padding: 5px 50px;
+    background-color: pink;
+    border: solid 5px palevioletred;
+    border-radius: 15px;
+}
+
+.msjFalla{
+    color: red;
+}
+
+.msjCongra{
+    color: rgb(72, 105, 253);
+}
+img{
+    height: 350px;
+}
